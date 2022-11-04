@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome Mastech Infotrellis</h2>
+<h2>Welcome Mastech Info</h2>
 </body>
 </html>
